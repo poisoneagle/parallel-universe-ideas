@@ -8,5 +8,6 @@ These have no current production slot in this starter repository. “Parked” m
 | XH XR8 Pursuit 5.8 ute / panel van | Navy blue direction, EL GT-inspired details and earlier carousel work | Recover existing assets/copy before recreating anything |
 | Jaecoo J5 RS | J5 source geometry, matte silver, black grille/badging/A-pillar and Brembos | Choose it as the next active concept and recover donor image |
 | Holden V8-powered sports cars | Giocattolo and alleged TVR prototype are research leads; TVR claim unverified | Recover supporting sources and choose a documentary slot |
+| Dyson electric car — would it have failed? (documentary, unranked) | Investigate Dyson's cancelled EV project, engineering ambitions, projected price, battery strategy, manufacturing economics and commercial viability; distinguish known facts from counterfactual projections | Source primary accounts and financial claims before assigning a video slot |
 
 Superseded variants such as the compact Jaguar supercharged 4.0R stay in their canonical brief's decision notes. This holding list is intentionally selective, not an exhaustive archive.
